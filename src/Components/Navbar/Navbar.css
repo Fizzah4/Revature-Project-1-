@@ -1,0 +1,22 @@
+/* src/Components/Navbar/Navbar.css */
+.navbar {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .navbar ul li a:hover {
+    color: #007bff;
+  }
+  
